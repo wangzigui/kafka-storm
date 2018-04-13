@@ -1,0 +1,7 @@
+D:\apache-storm-1.1.0\bin>storm nimbus
+
+D:\apache-storm-1.1.0\bin>storm supervisor
+
+D:\apache-storm-1.1.0\bin>storm logviewer
+
+D:\apache-storm-1.1.0\bin>storm ui
